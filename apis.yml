@@ -50,7 +50,7 @@ x-domain-note: >-
   Spanish entity behind Manfred. The domain publishes no NS, A, MX, TXT, or SOA records and
   does not resolve, so there is no live host to probe and no Website pointer is wired.
 x-headquarters: Spain
-specificationVersion: '0.20'
+specificationVersion: '0.23'
 created: '2026-07-17'
 modified: '2026-07-20'
 tags:
