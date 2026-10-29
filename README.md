@@ -64,19 +64,28 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Circular was a Spanish hiring community connecting tech recruiters with software developers —
-a "Hiring Community for Tech Recruiters & Developers." Recruiters shared vetted candidates they
-could not place themselves, and developers received opportunities from that trusted pool.
+> **No longer operating.** This company or product has shut down, been discontinued, or been deprecated. This profile is kept as a historical record and is not maintained or rated.
 
-**Status: defunct.** Circular shut down and merged into [Manfred](https://www.getmanfred.com/circular-to-manfred),
-the largest tech community in Spain — "Circular cierra sus puertas para integrarse en Manfred."
-The migration was already underway by late December 2024.
+Circular was a Spanish hiring community that connected tech recruiters with software developers, describing itself as a "Hiring Community for Tech Recruiters & Developers." It operated a referral-driven talent network in which recruiters shared vetted candidates they could not place themselves, and developers received job opportunities through that trusted pool rather than through cold outreach. The company was backed by Point Nine Capital and ran its candidate and recruiter landing experiences on a Next.js application served from circular.io and static.circular.io. Circular has since shut down and merged into Manfred (getmanfred.com), the largest tech community in Spain, with its own migration notice stating "Circular cierra sus puertas para integrarse en Manfred." The circular.io domain remains registered to Singular People Europe S.L. but has been fully undelegated, and Point Nine no longer lists Circular in its portfolio. Circular never published a public developer program, API, SDK, or specification. This profile is retained as a historical record; there is no API surface to enrich.
 
-The `circular.io` domain is still registered (to Singular People Europe S.L., the entity behind
-Manfred) but is fully undelegated — no NS, A, MX, TXT, or SOA records — so it does not resolve.
-Point Nine no longer lists Circular in its portfolio.
+**Areas:** Company · Defunct · Acquired · Recruiting · Hiring · Talent · Job · Developers · Community · Spain
 
-Circular never published a public developer program, API, SDK, or specification. This profile is
-retained as a historical record; there is no API surface to enrich.
+## Circular on APIs.io (historical record)
 
-Backed by: point-nine
+Everything profiled for Circular is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/circular/](https://apis.io/providers/circular/)** — or go straight to one of the APIs or properties below.
+
+## API Evangelist rating
+
+**Not rated** — this company is recorded as no longer operating, so no score is published. If it is in fact operating, say so on this repository and it will be re-profiled.
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Circular: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/circular/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
